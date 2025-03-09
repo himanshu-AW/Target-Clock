@@ -42,7 +42,8 @@ You can also install this project as a **mobile application** on your Android de
 
 | Web Interface | Mobile App Interface |  
 |----------------|--------------------|  
-| ![Web Interface](https://via.placeholder.com/150) | ![App Interface](https://via.placeholder.com/150) |  
+| ![Web Interface](https://github.com/himanshu-AW/Target-Clock/blob/main/Screenshot%202025-03-09%20233220.png) | ![App Interface](https://github.com/himanshu-AW/Target-Clock/blob/main/Screenshot%2025-03-09%233500.png) |  
+| ![Web Interface](https://github.com/himanshu-AW/Target-Clock/blob/main/Screenshot%2025-03-09%233341.png) | ![App Interface](https://github.com/himanshu-AW/Target-Clock/blob/main/Screenshot%2025-03-09%233846.png) |  
 
 ---
 
