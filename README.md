@@ -32,7 +32,7 @@ You can visit the **live website** here:
 ## 📲 Download Mobile App  
 
 You can also install this project as a **mobile application** on your Android device.  
-📥 **[Download APK from GitHub](https://github.com/himanshu-aw/Target-Clock/releases/download/v1.0/Target-Clock.apk)**  
+📥 **[Download APK from GitHub](https://github.com/himanshu-aw/Target-Clock/app-release.apk)**  
 
 👉 **Note:** The app provides the same functionalities as the website but in mobile app form for easy use.  
 
